@@ -6,4 +6,4 @@ services:
     ports:
       - 8088:8088
     volumes:
-      - .home:/home
+      - home:/home
